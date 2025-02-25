@@ -3,6 +3,7 @@
 
 Train CIFAR10 with PyTorch and Vision Transformers!
 written by @kentaroy47, @arutema47
+modified by Aon Safdar
 
 '''
 
